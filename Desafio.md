@@ -11,4 +11,8 @@
  - Abri o arquivo reademe.md e descrevi o passo a passo em Markdown.
  - salvei a descrição e voltei para o Git.
  - No Git o digitei o comando git status para saber o status do meu arquivo que se encontra utracked.
- - Digitei o comando git add . para 
+ - Commitei o arquivo ( git add . , git commit -m "mensagem" ).
+ - Empurrei para o Github com o com o comando git push origin main.
+
+
+#Fim
